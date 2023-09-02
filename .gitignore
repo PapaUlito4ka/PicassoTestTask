@@ -3,7 +3,7 @@ db.sqlite3
 /uploads
 .env
 /app
-
+.idea
 # Created by https://www.toptal.com/developers/gitignore/api/pycharm
 # Edit at https://www.toptal.com/developers/gitignore?templates=pycharm
 
